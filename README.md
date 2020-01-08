@@ -2,7 +2,7 @@
 <a href="https://forum-informatyka.000webhostapp.com/index.php">https://forum-informatyka.000webhostapp.com/index.php</a>
 
 
-Test account:
+<b>Test account:</b>
 
 Login: admin 
 
